@@ -1,6 +1,13 @@
 Some code
+<<<<<<< HEAD
 asdsdf
 asdfasg
 afgsdfg
 afgsdfhg
 
+=======
+фывфыва
+фыва
+фаывпвфыап
+фвыук
+>>>>>>> 1beed49088ccc0e1062c72a01f71c1f36bc5d4f9
